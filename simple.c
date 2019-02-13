@@ -1,12 +1,7 @@
 /**
  * simple.c
- *
- * A simple kernel module. 
- * 
- * To compile, run makefile by entering "make"
- *
- * Operating System Concepts - 10th Edition
- * Copyright John Wiley & Sons - 2018
+ * Miguel Manuel
+ * Miguel Hernandez
  */
 
 #include <linux/init.h>
